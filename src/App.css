@@ -1,0 +1,16 @@
+.container{
+  background: #121212;
+  color: white;
+  padding: 24px;
+  
+}
+.table{
+  border: 1px white solid;
+  border-radius: 8px;
+}
+.image{
+  max-width: 32px;
+}
+h3{
+  text-align: center;
+}
